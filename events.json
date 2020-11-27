@@ -1,0 +1,13 @@
+[
+    {
+      "eventId": 1,
+      "eventName": "Event One",
+      "eventDetails": "Buy sticky notes"
+    },
+    {
+        "eventId": 2,
+        "eventName": "Event Two",
+        "eventDetails": "Buy bananas"
+    }
+  ]
+  
